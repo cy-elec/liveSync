@@ -1,0 +1,4 @@
+[submodule "cparser"]
+	path = dependencies/cparser
+	url = git@github.com:Elec42/cparser
+	branch = main
