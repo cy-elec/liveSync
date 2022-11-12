@@ -1,7 +1,7 @@
-[submodule "cparser"]
-	path = dependencies/cparser
-	url = git@github.com:Elec42/cparser
-	branch = main
 [submodule "dependencies/cparser"]
 	path = dependencies/cparser
 	url = git@github.com:Elec42/cparser
+	branch = main
+[submodule "dependencies/csocket"]
+	path = dependencies/csocket
+	url = git@github.com:Elec42/csocket
